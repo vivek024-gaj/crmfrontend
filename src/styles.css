@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '../src/assets/css/jquery-ui.min.css';
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/font-awesome/css/font-awesome.min.css';
+@import '../src/assets/css/Icon-font-7/pe-icon-7-stroke/css/pe-icon-7-stroke.css';
+@import '../src/assets/css/themify-icons/themify-icons.css';
+@import '../src/assets/css/css.css';
+
+/* @import '../node_modules/framework/css/theme-default.css'; */
+
+@import '../src/assets/css/lobipanel.min.css';
+@import '../src/assets/css/flash.css';
+@import '../src/assets/css/emojionearea.min.css';
+@import '../src/assets/css/monthly.css';
+@import '../src/assets/css/stylecrm.css';

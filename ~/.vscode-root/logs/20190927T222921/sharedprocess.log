@@ -1,0 +1,10 @@
+[2019-09-27 22:29:27.838] [sharedprocess] [info] main {"machineId":"c49b53feff7351261df838c442cdc282543d13704a64f0f7a9039f43c66f9b8b"}
+[2019-09-27 22:29:33.909] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-27 22:29:33.916] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-27 22:29:33.932] [sharedprocess] [info] Scanned user extensions: 80
+[2019-09-27 22:29:33.935] [sharedprocess] [info] Scanned user extensions: 80
+[2019-09-27 22:29:45.841] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/altius/.vscode/extensions/esbenp.prettier-vscode-2.2.2
+[2019-09-27 22:29:45.842] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-27 22:29:45.863] [sharedprocess] [info] Scanned user extensions: 80
+[2019-09-27 22:29:45.894] [sharedprocess] [info] Scanned user extensions: 80
+[2019-09-27 22:30:07.455] [sharedprocess] [info] Starting to clean up unused language packs.

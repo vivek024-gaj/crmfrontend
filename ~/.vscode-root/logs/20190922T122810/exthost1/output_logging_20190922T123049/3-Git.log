@@ -1,0 +1,443 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/altius
+> git status -z -u
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-white.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-white.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/mcustomscrollbar/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/index.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/karma.conf.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-brown.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-brown.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/package-lock.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/.angulardoc.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/bootstrap/bootstrap.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/bootstrap/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/blueimp/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/index.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/.angulardoc.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/tslint.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/polyfills.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/angular.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/component/sidebar/sidebar.component.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/component/sidebar/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/options.json
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/index.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/index.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/options.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/plugins.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/index.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/options.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/plugins.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/CHANGELOG.md
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/index.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/options.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/plugins.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/options.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :vkyangularjsprojects/crmfrontend/src/assets/css/theme-default.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/assets/css/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/options.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/index.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-loader/src/
+> git show :vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/options.js
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/node_modules/postcss-load-config/src/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.module.ts
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/app/app.component.html
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/app/
+> git show :vkyangularjsprojects/crmfrontend/src/styles.css
+> git ls-files --stage -- vkyangularjsprojects/crmfrontend/src/

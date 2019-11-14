@@ -1,0 +1,1432 @@
+Initializing document watcher...
+Detected change in configuration: {}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-white.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-white.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: Using EditorConfig core...
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: editor.action.trimTrailingWhitespace
+src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/mcustomscrollbar/jquery.mCustomScrollbar.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/karma.conf.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/index.html: Using EditorConfig core...
+src/index.html: editor.action.trimTrailingWhitespace
+src/index.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-brown.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-brown.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: Using EditorConfig core...
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+src/index.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/package-lock.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/.angulardoc.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/bootstrap/bootstrap.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: Using EditorConfig core...
+src/assets/css/blueimp/blueimp-gallery.min.css: editor.action.trimTrailingWhitespace
+src/assets/css/blueimp/blueimp-gallery.min.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/blueimp/blueimp-gallery.min.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/index.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.component.html: Using EditorConfig core...
+src/app/app.component.html: editor.action.trimTrailingWhitespace
+src/app/app.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: Using EditorConfig core...
+src/assets/css/theme-default.css: editor.action.trimTrailingWhitespace
+src/assets/css/theme-default.css: insertFinalNewline(LF)
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/.angulardoc.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/tslint.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/polyfills.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/polyfills.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/polyfills.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: Using EditorConfig core...
+src/app/component/sidebar/sidebar.component.html: editor.action.trimTrailingWhitespace
+src/app/component/sidebar/sidebar.component.html: insertFinalNewline(LF)
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: Using EditorConfig core...
+angular.json: editor.action.trimTrailingWhitespace
+angular.json: insertFinalNewline(LF)
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/angular.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/component/sidebar/sidebar.component.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: Using EditorConfig core...
+src/app/app.module.ts: editor.action.trimTrailingWhitespace
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/options.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/options.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/options.json: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: Using EditorConfig core...
+node_modules/postcss-loader/src/index.js: editor.action.trimTrailingWhitespace
+node_modules/postcss-loader/src/index.js: insertFinalNewline(LF)
+crmfrontend/node_modules/postcss-load-config/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/plugins.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/plugins.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/plugins.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/CHANGELOG.md: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/plugins.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/plugins.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/plugins.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/assets/css/theme-default.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-loader/src/index.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/node_modules/postcss-load-config/src/options.js: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.module.ts: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/app/app.component.html: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: Using EditorConfig core...
+src/styles.css: editor.action.trimTrailingWhitespace
+src/styles.css: insertFinalNewline(LF)
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
+crmfrontend/src/styles.css: {"insertSpaces":true,"tabSize":2}
